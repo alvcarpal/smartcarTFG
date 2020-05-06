@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 03-feb-2019 13:01:42 by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>   
+    <class name="com.sensor.dto.Vehiculo" table="vehiculos">
+        
+        <id name="matricula" type="string">
+            <column name="matricula"/>
+        </id>
+        
+        <property name="tipos_tipo" column="tipos_tipo" type="string"/>
+        
+    </class>
+</hibernate-mapping>
