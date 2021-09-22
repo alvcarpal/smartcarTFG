@@ -1,7 +1,7 @@
 # smartcarTFG
 Repositorio del Trabajo Fin de Grado del alumno Álvaro Carmona Palomares 
 
-Se incluyen los distintos proyectos creados en Eclipse y dos archivos .zip con recursos externos a Eclipse que serán necesarios para el despliegue del sistema. 
+Se incluyen los distintos proyectos creados en Eclipse y dos archivos .zip con recursos externos a Eclipse que serán necesarios para el despliegue del sistema. En smartcarapp se pueden encontrar todos los ficheros de la aplicación web creada, encargada de hacer las peticiones a los distintos microservicios en función de la interacción del usuario con la interfaz.
 
 En el documento Entrega de trabajo.pdf puede encontrarse la memoria del proyecto, detallándose en los anexos el despliegue del sistema. También puede ser consultada el ppt para la presentación del proyecto en PresentacionAlvaro.pptx.
 
